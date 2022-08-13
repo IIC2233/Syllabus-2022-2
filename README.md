@@ -1,10 +1,5 @@
 # IIC2233 - Programación Avanzada
 
-## Cuerpo Docente
-
-Pendiente
-
-
 ## Evaluación
 
 1. Las evaluaciones serán efectuadas por medio de actividades prácticas en clases y tareas. Se calculará **la nota del curso NC** como:
@@ -47,6 +42,75 @@ Deben contestar un formulario que se habilitará en el debido momento. Se recomi
 
 La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
+## Cuerpo Docente
+
+### Profesores
+
+| Nombre            | Sección | Github      | Email                      |
+|-------------------|---------|-------------|----------------------------|
+| Hernán Valdivieso | 1       | @Hernan4444 | hfvaldivieso@uc.cl         |
+| Nicolás Elliott   | 2       | @Allmoz     | nicolas.elliott@ing.puc.cl |
+| Lesly Reyes       | 3       | @lareyes2   | lareyes2@uc.cl             |
+| Joaquín Tagle     | 4       | @jtagle2    | jtagle2@uc.cl              |
+
+### Jefes
+
+| Nombre          | Área               | Github           |
+|-----------------|--------------------|------------------|
+| Daniela Concha  | Coordinadora       | @lily416         |
+| Trinidad Balart | Jefe de Bienestar  | @Tsbalart        |
+| Caua Paz        | Jefe de Docencia   | @csantiagopaz    |
+| Ian Basly       | Jefe de Plataforma | @igbasly         |
+| Juan Pablo Saez | Jefe de Tareas     | @Juampisaez      |
+| Camila González | Jefe Híbrida       | @camilagonzalezp |
+
+### Ayudantes
+
+| Nombre                                 | Área             | Github                  |
+|----------------------------------------|------------------|-------------------------|
+| Natalia Correal Posada                 | Bienestar        | @NatC18                 |
+| Cristóbal Pérez-Cotapos                | Bienestar        | @CristobalPerez-Cotapos |
+| Gloria Verena Figueroa Rivera          | Bienestar        | @gvfigueroa             |
+| Carlos Felipe Gallegos Gutiérrez       | Bienestar        | @cegalleta              |
+| Ignacio Jesús Vial Pons                | Full Docencia    | @ignaciovial01          |
+| Manuel Espinoza Quintero               | Full Docencia    | @manuel-2112            |
+| Diego Pablo Milla González             | Full Docencia    | @DiegoMillaUC           |
+| Catalina Constanza Miranda Hernández   | Full Docencia    | @catalinamirandah       |
+| Juan Ignacio Fernández Galaz           | Full Docencia    | @juanfdezg              |
+| Julio Ignacio Huerta Herrera           | Full Docencia    | @Julius9                |
+| Pablo Eduardo Sepúlveda Serón          | Full Tareas      | @PSepulvedaS            |
+| Marco Antonio Agüero Hidalgo           | Full Tareas      | @mtaguero               |
+| Diego Rodríguez Cid                    | Full Tareas      | @drcid98                |
+| Guillermo Andrés Harris Bonet          | Full Tareas      | @GHarrisB               |
+| Martin Jara                            | Full Tareas      | @martinjaraf            |
+| Pedro de Pablo Iriondo                 | Full Tareas      | @PedroDP99              |
+| Daniel Andrés Toribio Montupil         | Full Tareas      | @Hellonston             |
+| Josefa Lizama                          | Full Tareas      | @jlizamajara            |
+| Amanda Sandoval Kuncar                 | Full Tareas      | @Amandasandov           |
+| Benjamín Eduardo Aguilera Arteaga      | Full Tareas      | @Benjeeeh               |
+| Victoria Atria                         | Full Tareas      | pendiente               |
+| Blanca Maria Romero Dussaillant        | Full Tareas      | @blanca-romero          |
+| Eduardo Antonio Contreras Lazcano      | Full Tareas      | @Lord-Kelsier           |
+| Gonzalo Ignacio Alegría Aravena        | Full Tareas      | @GonzaAlegria           |
+| Matías Vásquez Plass                   | Full Tareas      | @notyourlasagna         |
+| Isidora Sofía Espinaza Correa          | Full Tareas      | pendiente               |
+| Felipe Andrés Ramos Gómez              | Full Tareas      | @framos9                |
+| Benito Palacios                        | Full Tareas      | @benitopalaciosm        |
+| Emilia Pinto                           | Full Tareas      | @Emiliax16              |
+| Ignacio Eduardo Muñoz Garcés           | Full Tareas      | pendiente               |
+| Gustavo André Benjamín Truan Saxton    | Híbrido Docencia | @Gtruaan                |
+| Geraldine Coli Acevedo                 | Híbrido Docencia | @gecoli                 |
+| Patricio Antonio Hinostroza Valladares | Híbrido Docencia | @Dvckhv                 |
+| Consuelo Antonia Inostroza Conejeros   | Híbrido Docencia | @cattpuccino            |
+| Ignacio Alberto Rojas López            | Híbrido Docencia | pendiente               |
+| Sebastián Mitjans                      | Híbrido Docencia | @nep0s                  |
+| Tomás Alcalde                          | Híbrido Tareas   | @TomasAlcalde           |
+| Roberto Eduardo Benatuil Valera        | Híbrido Tareas   | pendiente               |
+| Teresita López                         | Híbrido Tareas   | @terelopezc             |
+| Diego Andrés Astudillo Vergara         | Híbrido Tareas   | @Astugol                |
+| Vicente Thomas Labarthe                | Híbrido Tareas   | @vicentethomas          |
+| Pablo San Francisco Rolla              | Híbrido Tareas   | @Sancauid               |
+| Nicolas Rafael Garcia Espindola        | Híbrido Tareas   | @nicolasgarciaes        |
 
 ## Semestres Anteriores
 
