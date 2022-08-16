@@ -1,0 +1,2 @@
+PROB_BESTIA = 10 / 64
+POND_PUNT = 3
