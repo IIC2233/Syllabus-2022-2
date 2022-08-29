@@ -2,7 +2,7 @@
 
 1. Solo las respuestas enviadas por el formulario serán consideradas como entrega atrasada. Si hacen un _commit_ después de las 20:00 y no contestan el formulario, este no será considerado como parte de su entrega para la corrección y tampoco repercutirá en algún descuento.
 
-2. Contestar el formulario implica que están de acuerdo con el descuento asociado al _commit_. Recuerden que mientras más tarde es el _commit_, mayor será el descuento. Pueden revisar la fórmula para calcular el descuento en este archivo: https://github.com/IIC2233/syllabus/blob/main/Tareas/Descuentos.md 
+2. Contestar el formulario implica que están de acuerdo con el descuento asociado al _commit_. Recuerden que mientras más tarde es el _commit_, mayor será el descuento. Pueden revisar la fórmula para calcular el descuento en este archivo: https://github.com/IIC2233/syllabus/blob/master/Tareas/Descuentos.md 
 
 3. También pueden responder con un _commit_ anterior al último subido, por ejemplo uno de ayer, y no tendrá ningún descuento asociado (solo si el _commit_ está dentro de plazo).
 
