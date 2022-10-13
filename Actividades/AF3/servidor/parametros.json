@@ -1,0 +1,14 @@
+{
+    "HOST" : "localhost",
+    "PORT" : 47365,
+    "PASSWORD" : "1234",
+    "CANCIONES" : ["Dejaria todo", "Fiesta en america", "Torero", "Un siglo sin ti"],
+    "CARATULA_1": ["data", "caratulas", "dejaria todo.jpeg"],
+    "CARATULA_2": ["data", "caratulas", "fiesta en america.jpeg"],
+    "CARATULA_3": ["data", "caratulas", "torero.jpg"],
+    "CARATULA_4": ["data", "caratulas", "un siglo sin ti.jpeg"],
+    "CANCION_1": ["data", "musica", "Chayanne - Dejaria Todo.wav"],
+    "CANCION_2": ["data", "musica", "Chayanne - 01 Fiesta En America.wav"],
+    "CANCION_3": ["data", "musica", "Chayanne - Torero (Video Oficial).wav"],
+    "CANCION_4": ["data", "musica", "Chayanne - Un Siglo Sin Ti (Video Oficial).wav"]
+}
