@@ -1,0 +1,12 @@
+{
+    "HOST": "localhost",
+    "PORT": 47365,
+    "VELOCIDAD_CARGA": 30,
+    "RUTA_ICONO": ["frontend", "assets", "icono.ico"],
+    "RUTA_PLAY": ["frontend", "assets", "play.png"],
+    "RUTA_PAUSE": ["frontend", "assets", "pause.png"],
+    "CARATULAS": ["data", "caratulas"],
+    "RUTA_PANTALLA_LOGIN": ["frontend", "assets", "ventana_login.ui"],
+    "RUTA_PANTALLA_CARGA": ["frontend", "assets", "ventana_carga.ui"],
+    "RUTA_PANTALLA_PRINCIPAL": ["frontend", "assets", "ventana_principal.ui"]
+}
