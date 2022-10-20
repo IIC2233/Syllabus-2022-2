@@ -1,0 +1,13 @@
+Paradis,Neo-Tokio,3
+Neo-Tokio,Tokyo III,1
+Neo Yokio,Tokyo III,5
+Tokyo III,Osorno,6
+Hinamizawa,Xerxes,3
+Sotoba,Hinamizawa,7
+Sotoba,Tokyo III,4
+Xerxes,Osorno,3
+Konoha,Xerxes,9
+Osorno,Sotoba,2
+Ciudad Metro,Hinamizawa,1
+Olympus,Metropolis,6
+Metropolis,Ciudad Metro,3
