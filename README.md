@@ -48,7 +48,7 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
 | Nombre            | Sección | Github      | Email                      |
 |-------------------|---------|-------------|----------------------------|
-| Hernán Valdivieso | 1       | @Hernan4444 | hfvaldivieso@uc.cl         |
+| Hernán Valdivieso | 1       | @Hernan4444 | hvaldivieso@ing.puc.cl     |
 | Nicolás Elliott   | 2       | @Allmoz     | nicolas.elliott@ing.puc.cl |
 | Lesly Reyes       | 3       | @lareyes2   | lareyes2@uc.cl             |
 | Joaquín Tagle     | 4       | @jtagle2    | jtagle2@uc.cl              |
